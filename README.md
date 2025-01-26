@@ -113,14 +113,14 @@ This workflow chart outlines the main features and user flow of the Pave Ways ap
 
 
 ### Project Demo
-# Video![(https://github.com/user-attachments/assets/501b3215-88bb-4b7c-a75a-854110fc5891)
+# Video
 
 
 
 [https://github.com/user-attachments/assets/ddf87f12-e6c2-422e-89ca-b79f889d9d7b]
 
 
-Explain what the video demonstrates
+First opens the login page and is asked to enter the login credentials and  after filling  we are directed to the home page
 
 # Additional Demos
 [Add any extra demo materials/links]
