@@ -62,10 +62,11 @@ home page
 
 ![![Screenshot (1)](https://github.com/user-attachments/assets/fa51786a-693f-4ba9-93ad-0d5c823d671c)
 ](Add screenshot 2 here with proper name)
-login page
 
-![C:\Users\hkp71\Pictures\Screenshots\Screenshot (5).png](Add screenshot 3 here with proper name)
+![Screenshot (3)](https://github.com/user-attachments/assets/4c34b106-a36d-459b-beb4-5855cce6a188)
+login pages
 emergency sos
+![Screenshot (5)](https://github.com/user-attachments/assets/9558efa3-076e-45ae-86c1-c28ad9c2c7a9)
 
 # Diagrams
 ![User Opens App
@@ -106,13 +107,19 @@ This workflow chart outlines the main features and user flow of the Pave Ways ap
 
 
 # Build Photos
-![C:\Users\User\Downloads\WhatsApp Image 2025-01-26 at 10.31.05.jpeg]
+![![WhatsApp Image 2025-01-26 at 10 31 05_b1c9defd](https://github.com/user-attachments/assets/e714a8ee-6f97-4dc5-b7fd-d19f9515ee73)
+
 
 
 
 ### Project Demo
-# Video
-[C:\Users\hkp71\Videos\Screen Recordings\Screen Recording 2025-01-26 104303.mp4]
+# Video![(https://github.com/user-attachments/assets/501b3215-88bb-4b7c-a75a-854110fc5891)
+
+
+
+[https://github.com/user-attachments/assets/ddf87f12-e6c2-422e-89ca-b79f889d9d7b]
+
+
 Explain what the video demonstrates
 
 # Additional Demos
