@@ -57,14 +57,15 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-Add caption explaining what this shows
+!["C:\Users\hkp71\Pictures\Screenshots\Screenshot (3).png"](Add screenshot 1 here with proper name)
+home page
 
-![Screenshot2](Add screenshot 2 here with proper name)
-Add caption explaining what this shows
+![![Screenshot (1)](https://github.com/user-attachments/assets/fa51786a-693f-4ba9-93ad-0d5c823d671c)
+](Add screenshot 2 here with proper name)
+login page
 
-![Screenshot3](Add screenshot 3 here with proper name)
-Add caption explaining what this shows
+!["C:\Users\hkp71\Pictures\Screenshots\Screenshot (5).png"](Add screenshot 3 here with proper name)
+emergency sos
 
 # Diagrams
 ![User Opens App
@@ -101,31 +102,17 @@ Payment Gateway
 This workflow chart outlines the main features and user flow of the Pave Ways app.](Add your workflow/architecture diagram here)
 
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-Add caption explaining connections
 
-![Schematic](Add your schematic diagram here)
-Add caption explaining the schematic
 
 # Build Photos
-![blob:https://web.whatsapp.com/ae26e83a-7d32-455f-aa68-6ac9bbcc1322]
+![C:\Users\User\Downloads\WhatsApp Image 2025-01-26 at 10.31.05.jpeg]
 
 
-![Components](Add photo of your components here)
-List out all components shown
-
-![Build](Add photos of build process here)
-Explain the build steps
-
-![Final](Add photo of final product here)
-Explain the final build
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+["C:\Users\hkp71\Videos\Screen Recordings\Screen Recording 2025-01-26 104303.mp4"]
 Explain what the video demonstrates
 
 # Additional Demos
