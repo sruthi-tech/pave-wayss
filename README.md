@@ -57,14 +57,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-!["C:\Users\hkp71\Pictures\Screenshots\Screenshot (3).png"](Add screenshot 1 here with proper name)
+![C:\Users\hkp71\Pictures\Screenshots\Screenshot (3).png](Add screenshot 1 here with proper name)
 home page
 
 ![![Screenshot (1)](https://github.com/user-attachments/assets/fa51786a-693f-4ba9-93ad-0d5c823d671c)
 ](Add screenshot 2 here with proper name)
 login page
 
-!["C:\Users\hkp71\Pictures\Screenshots\Screenshot (5).png"](Add screenshot 3 here with proper name)
+![C:\Users\hkp71\Pictures\Screenshots\Screenshot (5).png](Add screenshot 3 here with proper name)
 emergency sos
 
 # Diagrams
@@ -112,7 +112,7 @@ This workflow chart outlines the main features and user flow of the Pave Ways ap
 
 ### Project Demo
 # Video
-["C:\Users\hkp71\Videos\Screen Recordings\Screen Recording 2025-01-26 104303.mp4"]
+[C:\Users\hkp71\Videos\Screen Recordings\Screen Recording 2025-01-26 104303.mp4]
 Explain what the video demonstrates
 
 # Additional Demos
